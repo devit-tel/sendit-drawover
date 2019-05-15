@@ -12,7 +12,7 @@
     "url": "git+https://github.com/sendit-asia/sendit-drawover.git"
   },
   "author": "Sittipong HAUS",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sendit-asia/sendit-drawover/issues"
   },
